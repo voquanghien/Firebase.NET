@@ -1,8 +1,0 @@
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\vnyi.FirebaseNet\obj\Debug\vnyi.FirebaseNet.csproj.CoreCompileInputs.cache
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\vnyi.FirebaseNet\obj\Debug\vnyi.FirebaseNet.csproj.App.config
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\Dll\vnyi.FirebaseNet.dll.config
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\Dll\vnyi.FirebaseNet.dll
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\Dll\vnyi.FirebaseNet.pdb
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\vnyi.FirebaseNet\obj\Debug\vnyi.FirebaseNet.dll
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\vnyi.FirebaseNet\obj\Debug\vnyi.FirebaseNet.pdb
-C:\Users\hien.vq\source\Workspaces\Workspace\Quick Decision API\vnyi.FirebaseNet\obj\Debug\vnyi.FirebaseNet.csprojResolveAssemblyReference.cache

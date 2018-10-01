@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vnyi.FirebaseNet", "vnyi.FirebaseNet.csproj", "{8C8727E9-4113-460D-BADA-F9105C257EF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseNet", "FirebaseNet.csproj", "{8C8727E9-4113-460D-BADA-F9105C257EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,15 +21,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8843B901-4C67-46E3-BE75-1B1E5EDF3A99}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 1
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://vnyi-srv:8080/tfs/quick%20decision%20collection
-		SccProjectUniqueName0 = vnyi.FirebaseNet.csproj
-		SccProjectName0 = .
-		SccAuxPath0 = http://vnyi-srv:8080/tfs/quick%20decision%20collection
-		SccLocalPath0 = .
-		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 	EndGlobalSection
 EndGlobal
